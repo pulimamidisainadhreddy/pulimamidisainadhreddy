@@ -74,4 +74,4 @@ Advanced SQL · Spark optimization · AWS data engineering · Pipeline reliabili
 
 🔗 **GitHub:** [pulimamidisainadhreddy](https://github.com/pulimamidisainadhreddy)
 
-🔗 **LinkedIn:** [*Add your LinkedIn profile URL here*](https://www.linkedin.com/in/sainadhreddypulimamidi/?isSelfProfile=true)
+🔗 **LinkedIn:** (https://www.linkedin.com/in/sainadhreddypulimamidi/?isSelfProfile=true)
